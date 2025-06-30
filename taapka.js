@@ -98,7 +98,6 @@ for (let j = 0; j < 2; j++) {
 
 // ——— Flame & Enemy containers ———
 const flames  = [];
-flames.setAttribute("fill",         "orange");
 const enemies = [];
 
 // ——— Spawn enemies around screen edge ———
